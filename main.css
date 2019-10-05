@@ -72,7 +72,7 @@ h2 {
 
 #break-label,
 #session-label {
-  color: var(--color_3);
+  color: var(--color_1);
 }
 
 @keyframes color-change {
